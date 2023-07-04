@@ -16,3 +16,10 @@
 A collection of extensions for PHP.
 <br>
 <br>
+
+## Extensions
+- **[PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)**: Intelephense is a high performance PHP language server packed full of essential features for productive PHP development.
+
+- **[PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)**: PHP DocBlocking extension.
+
+- **[PHPTaqwim](https://marketplace.visualstudio.com/items?itemName=KalimahApps.taqwim)**: PHP linter and formatter for Visual Studio Code and CLI.
