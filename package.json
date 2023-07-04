@@ -2,8 +2,13 @@
   "name": "phpkit",
   "displayName": "PHPKit",
   "description": "A collection of extensions for PHP",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "KalimahApps",
+  "icon": "./logo.png",
+  "galleryBanner": {
+    "color": "#4f5b93",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kalimahapps/phpkit"
@@ -19,8 +24,11 @@
   },
   "keywords": [
     "php",
-    "extension pack",
-    "css"
+    "formatter",
+    "intelephense",
+    "phpdoc",
+    "taqwim",
+    "extension pack"
   ],
   "license": "MIT",
   "categories": [
