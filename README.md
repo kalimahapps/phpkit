@@ -13,7 +13,7 @@
 </a>
 </p>
 <br>
-A collection of extensions for PHP.
+A collection of extensions for PHP development in Visual Studio Code.
 <br>
 <br>
 
@@ -23,3 +23,5 @@ A collection of extensions for PHP.
 - **[PHP DocBlocker](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker)**: PHP DocBlocking extension.
 
 - **[PHPTaqwim](https://marketplace.visualstudio.com/items?itemName=KalimahApps.taqwim)**: PHP linter and formatter for Visual Studio Code and CLI.
+
+- **[KalimahKit](https://marketplace.visualstudio.com/items?itemName=KalimahApps.kalimahkit)**: Language agnostic collection of VSCode extensions for common development requirements

@@ -1,8 +1,8 @@
 {
   "name": "phpkit",
   "displayName": "PHPKit",
-  "description": "A collection of extensions for PHP",
-  "version": "1.0.2",
+  "description": "A collection of extensions for PHP development.",
+  "version": "1.0.3",
   "publisher": "KalimahApps",
   "icon": "./logo.png",
   "galleryBanner": {
@@ -37,6 +37,7 @@
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
     "neilbrayfield.php-docblocker",
-    "KalimahApps.taqwim"
+    "KalimahApps.taqwim",
+    "KalimahApps.kalimahkit"
   ]
 }
